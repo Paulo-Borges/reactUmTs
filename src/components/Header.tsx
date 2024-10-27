@@ -6,7 +6,8 @@ const Header = () => {
   return (
     <header className={styles.header}>
       <img src={igniteLogo} alt="Logotipo do ignite" />
-      <strong>Borges Feed</strong>
+      <a href="https://www.linkedin.com/in/paulo-borges-de-almeida-b543b3242/" target='_blank'><strong>Borges Feed</strong></a>
+      
     </header>
   )
 }

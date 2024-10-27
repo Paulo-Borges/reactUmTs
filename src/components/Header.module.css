@@ -8,3 +8,9 @@
 .header img {
     height: 2rem;
 }
+
+.header a {
+    text-decoration: none;
+    color: var(--white);
+    margin-left: 0.5rem;
+}
